@@ -23,7 +23,8 @@ cd AntiChannelBan
 pip3 install -U -r requirements.txt
 python3 main.py # start the bot.
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+
+### 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
 <a href="https://t.me/decodesupport"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 <a href="https://t.me/deecodebots"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
