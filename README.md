@@ -10,9 +10,9 @@ Heroku is the best way to host ur Projects
 
 
 ## VPS Deployment 📡
-Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
+Get the best performance by hosting it on VPS, here's the step's:
 
-```sh
+``sh
 sudo apt update && apt upgrade -y
 pip3 install -U pip
 npm i -g npm
@@ -24,17 +24,15 @@ pip3 install -U -r requirements.txt
 python3 main.py # start the bot.```
 
 
-### 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
 <a href="https://t.me/decodesupport"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 <a href="https://t.me/deecodebots"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
-# CREDIT
+## CREDIT
 
-```
 BrayDen
 Blaze
 Shubhanshu
 Achu Biju
 Zaid
-```
