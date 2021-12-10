@@ -3,12 +3,12 @@ This is a Anti Channel Ban Robots
 
 delete and ban message sent by channels
 
-## Heroku Deployment 💜
-Heroku is the best way to host ur Projects
+<h2 align="center">
+   Deployment Method
+</h2>
 
-[![ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrayDenXD/AntiChannelBan)
-
-
+<p align="center">
+<a href="https://railway.app/new/template?template=https://github.com/BrayDenXD/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSTRING_BOT_TOKEN%2CSUDO"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
