@@ -21,7 +21,7 @@ git clone https://github.com/BrayDenXD/AntiChannelBan
 pip install poetry
 cd AntiChannelBan
 pip3 install -U -r requirements.txt
-python3 main.py # start the bot.
+python3 main.py # start the bot.```
 
 
 ### 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
