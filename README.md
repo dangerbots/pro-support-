@@ -23,3 +23,26 @@ Shubhanshu
 Achu Biju
 Zaid
 ```
+
+
+## VPS Deployment ⚒️
+
+```sh
+
+sudo apt update && apt upgrade -y
+
+sudo npm i -g npm
+
+pip install poetry
+
+git clone https://github.com/BrayDenXD/AntiChannelBan # before cloning fork repo and fill All wars first
+
+cd AntiChannelBan
+
+sudo pip3 install --upgrade pip
+
+sudo pip3 install -U -r requirements.txt
+
+sudo python3 main.py # run the bot.
+
+```
