@@ -21,8 +21,8 @@ git clone https://github.com/BrayDenXD/AntiChannelBan
 pip install poetry
 cd AntiChannelBan
 pip3 install -U -r requirements.txt
-python3 main.py # start the bot.```
-
+python3 main.py # start the bot.
+```
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
@@ -30,9 +30,10 @@ python3 main.py # start the bot.```
 <a href="https://t.me/deecodebots"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 ## CREDIT
-
+```
 BrayDen
 Blaze
 Shubhanshu
 Achu Biju
 Zaid
+```
